@@ -1,0 +1,26 @@
+
+body{
+    background-color: cornsilk;
+}
+.label {
+    border-bottom: brown 0.5em;
+}
+
+#encriptar {
+    background-color: cornflowerblue;
+}
+#desencriptar {
+    background-color: cornflowerblue;
+}
+#copiar {
+    background-color: cornflowerblue;
+}
+
+*input{
+    border-radius: 10px;
+    border-color: black;
+}
+
+.box1{
+    background-color: blue;
+}
